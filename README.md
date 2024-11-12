@@ -28,6 +28,6 @@
 
 ### 📞 Contacto
 
-- 📧 **Correo:** [tuemail@example.com](omaryesithvilladiegocarrascal@outlook.com)
+- 📧 **Correo:** [omaryesithvilladiegocarrascal@outlook.com](mailto:omaryesithvilladiegocarrascal@outlook.com)
 - 📱 **Teléfono:** +57 323 586 4682
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/omar-yesith-villadiego-carrascal-b68066263)
+- 💼 **LinkedIn:** [linkedin.com/in/omar-yesith-villadiego](https://www.linkedin.com/in/omar-yesith-villadiego-carrascal-b68066263)
