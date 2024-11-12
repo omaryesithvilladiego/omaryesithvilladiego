@@ -1,1 +1,1 @@
-
+<p>Soy un Desarrollador Web Full Stack con experiencia en TypeScript, GraphQL y NestJS. Desde mis inicios en la programación, he explorado tecnologías clave como HTML, CSS y JavaScript, y me especializo en construir APIs seguras y escalables. Me destacan habilidades en comunicación, trabajo en equipo y adaptabilidad, además de liderar eficazmente la gestión de tareas. </p>
